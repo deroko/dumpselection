@@ -12,6 +12,7 @@ Also plugin starts in full windows mode, but you may drag it down to
 the output window for convenience.
 
 Example:
+
 **dump py**
 ```
 raw_data =  "\x45\x31\xc9\x45\x31\xc0\x31\xc9\x31\xd2\x48\x89";
