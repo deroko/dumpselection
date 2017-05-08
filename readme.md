@@ -1,4 +1,4 @@
-#dump selection plugin by deroko of ARTeam
+# dump selection plugin by deroko of ARTeam
 
 Adds ability to dump selected bytes from IDA which can be easily
 added to python/C/gas/tasm/nasm/masm.
